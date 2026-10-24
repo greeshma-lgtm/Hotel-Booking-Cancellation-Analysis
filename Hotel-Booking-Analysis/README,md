@@ -1,0 +1,25 @@
+# Hotel Booking & Cancellation Analysis
+
+## Project Overview
+This project analyses hotel booking data to identify cancellation trends, booking patterns, and potential revenue impact.
+
+## Tools Used
+- Python
+- Pandas
+- Microsoft Power BI
+- DAX
+
+## Key Features
+- Total and cancelled bookings
+- Cancellation rate analysis
+- Average Daily Rate (ADR)
+- Estimated revenue impact of cancellations
+- Interactive Power BI dashboard
+
+## Project Files
+- `hotel_bookings.csv` – Dataset
+- `analysis.ipynb` – Python analysis notebook
+- `Hotel Booking & Cancellation Analysis.pbix` – Power BI dashboard
+
+## Conclusion
+This project provides insights into hotel booking and cancellation trends to support better decision-making.
